@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToastApp</string>
+    <string name="make_toast">Make toast</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="feed_cat">Пора кормить кота!</string>
+    <string name="feed_cat2">It\'s time to feed the cat!</string>
+</resources>
